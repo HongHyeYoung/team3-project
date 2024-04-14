@@ -29,13 +29,14 @@
 - Java 8
 - JDK 1.8.0
 - IDE:STS
-- Franework : Springboot
+- Framework : Springboot
 - Database : Oracle DB
 
 ## :pushpin: 주요 기능
 
 ### 로그인 - 
-
+- DB값 검증
+- 
 #### 관리자 페이지
 - 팝업 스토어 비즈니스 유저 회원가입 신청 관리 (승인, 거부)
 - 문의사항 관리 (승인, 거부)
