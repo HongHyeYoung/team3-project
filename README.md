@@ -25,8 +25,8 @@
 
 ### ⚙️ 개발 환경
 
-- Java 8
-- JDK 1.8.0
+- `Java 8`
+- `JDK 1.8.0`
 - IDE:STS
 - Framework : Springboot
 - Database : Oracle DB
